@@ -1,4 +1,4 @@
-**Hi there! I'm Tyler** A professional Data Analyst
+**Hi there! I'm Tyler**, a professional Data Analyst
 
 **Background**: A meticulous Data Analyst with a foundation in customer service and account management, eager to delve into the realms of data analytics. Proficient in data visualization and analysis tools like Tableau, Power BI, SQL, and Excel. Experienced in delivering actionable insights to drive informed business decisions. Open to engaging in outsourcing projects that require expertise in data visualization, analysis, and project management.
 

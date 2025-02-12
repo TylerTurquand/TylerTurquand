@@ -10,4 +10,4 @@ While working full time, I decided to take on an intensive 4-month Business Inte
 
 Feel free to contact me on GitHub or [Linkedin](https://www.linkedin.com/in/tyler-turquand/)
 
-View my resume here: [Resume](https://docs.google.com/document/d/1iE6YmNIIyReYwtW1FU046Bn5UFiQ53BM/edit?usp=sharing&ouid=100891947353116824402&rtpof=true&sd=true)
+View my resume here: [Resume](https://docs.google.com/document/d/1jktFOOmEYuNXTEAm-58T0s_QeOtY5NhbdzCHda63cKQ/edit?usp=sharing)
